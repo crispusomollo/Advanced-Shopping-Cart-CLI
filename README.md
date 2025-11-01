@@ -34,12 +34,12 @@ This project demonstrates:
 
 ## ⚙️ Features
 
-✅ Multi-user sessions
-✅ Add, remove, and view items in cart
-✅ Checkout with total calculation
-✅ Persistent storage using JSON
-✅ Input validation and error handling
-✅ Clean and colorized CLI experience
+- ✅ Multi-user sessions
+- ✅ Add, remove, and view items in cart
+- ✅ Checkout with total calculation
+- ✅ Persistent storage using JSON
+- ✅ Input validation and error handling
+- ✅ Clean and colorized CLI experience
 
 ---
 
