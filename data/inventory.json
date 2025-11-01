@@ -1,0 +1,21 @@
+{
+    "Apples": {
+        "price": 120,
+        "category": "Fruits"
+    },
+    "Rice": {
+        "price": 450,
+        "category": "Groceries"
+    },
+    "Milk": {
+        "price": 200,
+        "category": "Dairy"
+    },
+    "Bread": {
+        "price": 150,
+        "category": "Bakery"
+    },
+    "Eggs": {
+        "price": 20,
+        "category": "Dairy"
+    }
