@@ -34,12 +34,12 @@ This project demonstrates:
 
 ## ⚙️ Features
 
-- ✅ Multi-user sessions
-- ✅ Add, remove, and view items in cart
-- ✅ Checkout with total calculation
-- ✅ Persistent storage using JSON
-- ✅ Input validation and error handling
-- ✅ Clean and colorized CLI experience
+- Multi-user sessions
+- Add, remove, and view items in cart
+- Checkout with total calculation
+- Persistent storage using JSON
+- Input validation and error handling
+- Clean and colorized CLI experience
 
 ---
 
@@ -70,16 +70,18 @@ pip install -r requirements.txt
 python3 shopping_cart_multi.py
 ```
 
-🧪 Testing
+---
+
+## 🧪 Testing
 
 The project includes automated tests for cart logic, user management, and helper utilities.
 
-▶️ Run All Tests
+### ▶️ Run All Tests
 ```
 python3 -m unittest discover -s tests
 ```
 
-✅ Example Output
+### ✅ Example Output
 ........
 ----------------------------------------------------------------------
 Ran 8 tests in 0.45s
@@ -89,12 +91,14 @@ OK
 
 If you see OK, it means all tests passed successfully 🎉
 
-## 🧰 Test Files Overview
+### 🧰 Test Files Overview
 ```
 File    Purpose
 tests/test_cart.py      Tests helper utilities, data handling, and inventory setup
 tests/test_multi.py     Tests user sessions, cart operations, and checkout logic
 ```
+
+---
 
 ## 🗂️ Project Structure
 ```
@@ -112,6 +116,8 @@ Advanced-Shopping-Cart-CLI/
 ├── LICENSE
 └── README.md
 ```
+
+---
 
 ## 🧑‍💻 Example CLI Session
 === Advanced Shopping Cart CLI ===
@@ -138,22 +144,24 @@ Enter your choice: 4
 💰 Total: 150 KES
 Thank you for shopping with us!
 
+---
+
 # 🤝 Contributing
 
 Contributions are welcome!
 If you’d like to improve features, fix bugs, or extend the project (e.g., Flask API version), feel free to:
-
 - Fork the repository
 - Create a new branch (feature/your-feature-name)
 - Commit your changes
 - Push and submit a Pull Request
 
+---
 
 # 🧾 License
 
-This project is licensed under the MIT License — see the LICENSE
- file for details.
+This project is licensed under the MIT License — see the LICENSE file for details.
 
+---
 
 ## 🌟 Future Enhancements
 
